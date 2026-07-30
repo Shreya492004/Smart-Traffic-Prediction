@@ -1,0 +1,25 @@
+Timestamp,DayOfWeek,CarCount,BikeCount,BusCount,TruckCount,TotalVehicleCount,TrafficLevel
+2026-02-01 08:00,Monday,20,5,2,3,30,Low
+2026-02-01 08:15,Monday,25,6,3,4,38,Low
+2026-02-01 08:30,Monday,30,7,2,5,44,Low
+2026-02-01 08:45,Monday,35,8,3,6,52,Normal
+2026-02-01 09:00,Monday,40,10,4,7,61,Normal
+2026-02-01 09:15,Monday,45,12,5,8,70,Normal
+2026-02-01 09:30,Monday,50,15,6,10,81,High
+2026-02-01 09:45,Monday,55,18,7,12,92,High
+2026-02-01 10:00,Monday,60,20,8,15,103,High
+2026-02-01 10:15,Monday,65,22,10,18,115,Heavy
+2026-02-01 10:30,Monday,70,25,12,20,127,Heavy
+2026-02-01 10:45,Monday,75,28,14,22,139,Heavy
+2026-02-01 11:00,Tuesday,20,5,2,3,30,Low
+2026-02-01 11:15,Tuesday,25,6,3,4,38,Low
+2026-02-01 11:30,Tuesday,30,7,2,5,44,Low
+2026-02-01 11:45,Tuesday,35,8,3,6,52,Normal
+2026-02-01 12:00,Tuesday,40,10,4,7,61,Normal
+2026-02-01 12:15,Tuesday,45,12,5,8,70,Normal
+2026-02-01 12:30,Tuesday,50,15,6,10,81,High
+2026-02-01 12:45,Tuesday,55,18,7,12,92,High
+2026-02-01 13:00,Tuesday,60,20,8,15,103,High
+2026-02-01 13:15,Tuesday,65,22,10,18,115,Heavy
+2026-02-01 13:30,Tuesday,70,25,12,20,127,Heavy
+2026-02-01 13:45,Tuesday,75,28,14,22,139,Heavy
